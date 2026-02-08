@@ -1,0 +1,72 @@
+{
+  "book_id": "renaissance-northern-urban-realism-gender-dynamics",
+  "title": "The Arithmetic of Cold Iron",
+  "tagline": "In a city of ledgers and whispers, a woman must calculate her own worth against the brutal economy of marriage, guilds, and survival.",
+  "target_words": 73695,
+  "actual_words": 73695,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Economy of Marriage and Dowry",
+    "Female Agency in a Mercantile World",
+    "The Silent Violence of Ledgers and Contracts",
+    "Urban Survival and Class Tension"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "A Ledger of Cold Iron",
+      "words": 6699
+    },
+    {
+      "ch": 2,
+      "title": "The Arithmetic of Survival",
+      "words": 6699
+    },
+    {
+      "ch": 3,
+      "title": "The Workshop's Contaminated Silence",
+      "words": 6699
+    },
+    {
+      "ch": 4,
+      "title": "The Guildhall's Damning Script",
+      "words": 6699
+    },
+    {
+      "ch": 5,
+      "title": "A Seep of Grey Morning",
+      "words": 6699
+    },
+    {
+      "ch": 6,
+      "title": "The Crimson Timer",
+      "words": 6699
+    },
+    {
+      "ch": 7,
+      "title": "A Victory of Copper and Gin",
+      "words": 6699
+    },
+    {
+      "ch": 8,
+      "title": "Shapes with Intentions",
+      "words": 6699
+    },
+    {
+      "ch": 9,
+      "title": "The Silence of a Tighter Skin",
+      "words": 6699
+    },
+    {
+      "ch": 10,
+      "title": "A Contract of Bitter Sludge",
+      "words": 6699
+    },
+    {
+      "ch": 11,
+      "title": "The City's Changed Key",
+      "words": 6699
+    }
+  ]
+}
